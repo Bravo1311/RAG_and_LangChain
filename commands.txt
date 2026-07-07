@@ -1,3 +1,4 @@
 uv add --active -r requirements.txt 
+uv add "LIBRARY-NAME"
 
 python -m ipykernel install --user --name=pythonenv --display-name="Python (pythonenv)"
