@@ -9,5 +9,6 @@ pypdf
 pymupdf
 ipykernel
 datasets
+transformers
 
 
